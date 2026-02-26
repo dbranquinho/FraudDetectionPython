@@ -1,0 +1,5 @@
+# Ignorar arquivos de base de dados (datasets)
+*.csv
+
+# Específico para o arquivo da aula
+creditcard.csv
